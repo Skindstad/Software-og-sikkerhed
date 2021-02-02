@@ -1,0 +1,7 @@
+C:\Users\JSFr.skp\source\repos\ServerSocket\ServerSocket\bin\Debug\ServerSocket.exe.config
+C:\Users\JSFr.skp\source\repos\ServerSocket\ServerSocket\bin\Debug\ServerSocket.exe
+C:\Users\JSFr.skp\source\repos\ServerSocket\ServerSocket\bin\Debug\ServerSocket.pdb
+C:\Users\JSFr.skp\source\repos\ServerSocket\ServerSocket\obj\Debug\ServerSocket.csprojAssemblyReference.cache
+C:\Users\JSFr.skp\source\repos\ServerSocket\ServerSocket\obj\Debug\ServerSocket.csproj.CoreCompileInputs.cache
+C:\Users\JSFr.skp\source\repos\ServerSocket\ServerSocket\obj\Debug\ServerSocket.exe
+C:\Users\JSFr.skp\source\repos\ServerSocket\ServerSocket\obj\Debug\ServerSocket.pdb

@@ -1,0 +1,7 @@
+C:\Users\JSFr.skp\source\repos\MultiServer\MultiServer\obj\Debug\MultiServer.csprojAssemblyReference.cache
+C:\Users\JSFr.skp\source\repos\MultiServer\MultiServer\obj\Debug\MultiServer.csproj.CoreCompileInputs.cache
+C:\Users\JSFr.skp\source\repos\MultiServer\MultiServer\bin\Debug\MultiServer.exe.config
+C:\Users\JSFr.skp\source\repos\MultiServer\MultiServer\bin\Debug\MultiServer.exe
+C:\Users\JSFr.skp\source\repos\MultiServer\MultiServer\bin\Debug\MultiServer.pdb
+C:\Users\JSFr.skp\source\repos\MultiServer\MultiServer\obj\Debug\MultiServer.exe
+C:\Users\JSFr.skp\source\repos\MultiServer\MultiServer\obj\Debug\MultiServer.pdb
