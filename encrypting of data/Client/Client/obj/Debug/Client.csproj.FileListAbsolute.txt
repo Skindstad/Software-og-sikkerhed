@@ -1,0 +1,7 @@
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\encrypting of data\Client\Client\bin\Debug\Client.exe.config
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\encrypting of data\Client\Client\bin\Debug\Client.exe
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\encrypting of data\Client\Client\bin\Debug\Client.pdb
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\encrypting of data\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\encrypting of data\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\encrypting of data\Client\Client\obj\Debug\Client.exe
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\encrypting of data\Client\Client\obj\Debug\Client.pdb

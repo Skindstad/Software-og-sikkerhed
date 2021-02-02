@@ -1,0 +1,7 @@
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\encrypting of data\encrypting of data\bin\Debug\encrypting of data.exe.config
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\encrypting of data\encrypting of data\bin\Debug\encrypting of data.exe
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\encrypting of data\encrypting of data\bin\Debug\encrypting of data.pdb
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\encrypting of data\encrypting of data\obj\Debug\encrypting of data.csprojAssemblyReference.cache
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\encrypting of data\encrypting of data\obj\Debug\encrypting of data.csproj.CoreCompileInputs.cache
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\encrypting of data\encrypting of data\obj\Debug\encrypting of data.exe
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\encrypting of data\encrypting of data\obj\Debug\encrypting of data.pdb
