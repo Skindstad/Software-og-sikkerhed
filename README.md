@@ -1,6 +1,6 @@
 # Software-og-sikkerhed
 
-(Opgave)
+(Opgave  til Non-Parametric Encryption)
 Lav koden om således at den kan tage en hvilken som helst string som input, evt. Som brugeren
 selv skriver ind.
 • Lav koden om således at krypterings og dekrypterings algoritmerne ikke er i main funktionen,
