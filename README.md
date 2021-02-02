@@ -19,5 +19,16 @@ passende dekrypteringsalgoritme. Hvor kompleks kan du lave den?
 afsted, og derefter dekrypterer den i den anden ende. 
 
 
+(Opgave Kryptering af data)
+
+- Opret en function til at kryptere data inden det sendes.
+
+- Opret en function til at dekryptere data når det modtages.
+
+- Brug de basale krypterings operationer til at kryptere beskeden.
+
+- Krypteringen skal baseres på en pre shared nøgle.
+
+Ligger inde i Encrypting of data
 
 Jakob Skindstad Frederiksen
