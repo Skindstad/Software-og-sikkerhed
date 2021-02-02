@@ -1,0 +1,7 @@
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\Non-Parametric Encryption\Non-Parametric Encryption\bin\Debug\Non-Parametric Encryption.exe.config
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\Non-Parametric Encryption\Non-Parametric Encryption\bin\Debug\Non-Parametric Encryption.exe
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\Non-Parametric Encryption\Non-Parametric Encryption\bin\Debug\Non-Parametric Encryption.pdb
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\Non-Parametric Encryption\Non-Parametric Encryption\obj\Debug\Non-Parametric Encryption.csprojAssemblyReference.cache
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\Non-Parametric Encryption\Non-Parametric Encryption\obj\Debug\Non-Parametric Encryption.csproj.CoreCompileInputs.cache
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\Non-Parametric Encryption\Non-Parametric Encryption\obj\Debug\Non-Parametric Encryption.exe
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\Non-Parametric Encryption\Non-Parametric Encryption\obj\Debug\Non-Parametric Encryption.pdb
