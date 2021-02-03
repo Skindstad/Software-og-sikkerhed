@@ -19,7 +19,7 @@ namespace Server
 
         }
 
-        private string key = "b14ca5898a4e4133bbce2ea2315a1916";
+        private int key = 14589844;
 
         public List<TcpClient> clients = new List<TcpClient>();
         public void MyServer()
@@ -37,7 +37,7 @@ namespace Server
                 Console.Write("Write your message here: ");
                 string text = Console.ReadLine();
 
-                var Encryptor = Transpositition.Encipher(text, key, '-');
+                var Encryptor = cipher.Encipher(text, key);
                 Console.WriteLine(Encryptor);
 
                 byte[] bytes = Encoding.UTF8.GetBytes(Encryptor);
@@ -72,7 +72,7 @@ namespace Server
                 int Read = await stream.ReadAsync(bytes, 0, bytes.Length);
                 string text = Encoding.UTF8.GetString(bytes, 0, Read);
                 Console.WriteLine(text);
-                var decryptor = Transpositition.Decipher(text, key);
+                var decryptor = cipher.Decipher(text, key);
 
                 Console.WriteLine(decryptor);
 

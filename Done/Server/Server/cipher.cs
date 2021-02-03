@@ -13,7 +13,7 @@ namespace Server
 
         public readonly byte[] publicKey = new byte[32];
 
-        public static char cipher(char ch, int key)
+        public static char Caesar(char ch, int key)
         {
             if (!char.IsLetter(ch))
             {
@@ -31,7 +31,7 @@ namespace Server
             string output = string.Empty;
 
             foreach (char ch in text)
-                output += cipher(ch, key);
+                output += Caesar(ch, key);
 
             return output;
         }
