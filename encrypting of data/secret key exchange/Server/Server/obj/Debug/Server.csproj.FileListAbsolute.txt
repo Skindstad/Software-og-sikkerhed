@@ -4,3 +4,4 @@ C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\encrypting of data\secret k
 C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\encrypting of data\secret key exchange\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
 C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\encrypting of data\secret key exchange\Server\Server\obj\Debug\Server.exe
 C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\encrypting of data\secret key exchange\Server\Server\obj\Debug\Server.pdb
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\encrypting of data\secret key exchange\Server\Server\obj\Debug\Server.csprojAssemblyReference.cache
