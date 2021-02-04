@@ -1,0 +1,7 @@
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\Done\client\client\bin\Debug\client.exe.config
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\Done\client\client\bin\Debug\client.exe
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\Done\client\client\bin\Debug\client.pdb
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\Done\client\client\obj\Debug\client.csprojAssemblyReference.cache
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\Done\client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\Done\client\client\obj\Debug\client.exe
+C:\Users\JSFr.skp\source\repos\Software-og-sikkerhed\Done\client\client\obj\Debug\client.pdb
